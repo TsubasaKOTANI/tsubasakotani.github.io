@@ -17,6 +17,16 @@ title: 研究
 - [Physics of Plasmas](https://pubs.aip.org/aip/pop)
 - [Physics of Fluids](https://pubs.aip.org/aip/pof)
 
+#### American Physical Society
+- [Physical Review E](https://journals.aps.org/pre/)
+- [Physical Review Letters](https://journals.aps.org/prl/)
+- [Physical Review D](https://journals.aps.org/prl/)
+
+#### IOP Publishing
+- [The Astrophysical Journal](https://iopscience.iop.org/journal/0004-637X)
+- [Nuclear Fusion](https://iopscience.iop.org/journal/0029-5515)
+- [Plasma Physics and Controlled Fusion](https://iopscience.iop.org/journal/0029-5515)
+
 #### Cambridge core
 - [Journal of Plasma Physics](https://www.cambridge.org/core/journals/journal-of-plasma-physics)
 

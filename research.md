@@ -15,7 +15,10 @@ title: 研究
 ### 海外
 - [Physics of Plasmas](https://pubs.aip.org/aip/pop)
 - [Journal of Plasma Physics](https://www.cambridge.org/core/journals/journal-of-plasma-physics)
+
+#### Wilely
 - [Journal of Geophysical Research: Space Physics](https://agupubs.onlinelibrary.wiley.com/journal/21699402)
+- [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/journal/19448007)
 
 ## 参考になるサイト
 - [東京大学 立川さん](https://member.ipmu.jp/yuji.tachikawa/)

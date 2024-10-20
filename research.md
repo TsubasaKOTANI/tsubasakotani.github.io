@@ -13,10 +13,13 @@ title: 研究
 - [Earths, Planets, and Space](https://earth-planets-space.springeropen.com/)
 
 ### 海外
+#### AIP Publishing
 - [Physics of Plasmas](https://pubs.aip.org/aip/pop)
+
+#### Cambridge core
 - [Journal of Plasma Physics](https://www.cambridge.org/core/journals/journal-of-plasma-physics)
 
-#### Wilely
+#### Wiley
 - [Journal of Geophysical Research: Space Physics](https://agupubs.onlinelibrary.wiley.com/journal/21699402)
 - [Geophysical Research Letters](https://agupubs.onlinelibrary.wiley.com/journal/19448007)
 

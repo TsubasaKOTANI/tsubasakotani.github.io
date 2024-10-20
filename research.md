@@ -12,6 +12,11 @@ title: 研究
 - [Plasma and Fusion Research]()
 - [Earths, Planets, and Space](https://earth-planets-space.springeropen.com/)
 
+### 海外
+- [Physics of Plasmas](https://pubs.aip.org/aip/pop)
+- [Journal of Plasma Physics](https://www.cambridge.org/core/journals/journal-of-plasma-physics)
+- 
+
 ## 参考になるサイト
 - [東京大学 立川さん](https://member.ipmu.jp/yuji.tachikawa/)
     - ポスドクになるにせよ、社会にでて会社勤めをするにせよ、博士号をとるかとらないかということは人生に影響を与えます。ですから、なるべく簡単かつ穏便な方法で、博士号をとりましょう。博士論文の目的は、博士号をとることにあるのであって、それ以上では決してありません。

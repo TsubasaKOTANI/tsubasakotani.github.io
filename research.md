@@ -15,6 +15,7 @@ title: 研究
 ### 海外
 #### AIP Publishing
 - [Physics of Plasmas](https://pubs.aip.org/aip/pop)
+- [Physics of Fluids](https://pubs.aip.org/aip/pof)
 
 #### Cambridge core
 - [Journal of Plasma Physics](https://www.cambridge.org/core/journals/journal-of-plasma-physics)

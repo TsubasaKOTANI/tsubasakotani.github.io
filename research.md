@@ -9,7 +9,7 @@ title: 研究
 ## プラズマ物理系の雑誌
 ### 国内
 - [Journal of the Physical Society of Japan](https://journals.jps.jp/journal/jpsj?mobileUi=0)
-- [Plasma and Fusion Research]()
+- [Plasma and Fusion Research](https://www.jspf.or.jp/PFR/about.html)
 - [Earths, Planets, and Space](https://earth-planets-space.springeropen.com/)
 
 ### 海外

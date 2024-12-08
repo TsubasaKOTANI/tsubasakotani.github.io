@@ -1,6 +1,4 @@
-<!-- theme: jekyll-theme-slate -->
-<!-- theme: minima -->
-theme: Cayman
+theme: jekyll-theme-cayman
 <!-- title: Tsubasa Kotani's Homepage -->
 header_pages:
   - index.md

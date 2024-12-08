@@ -11,11 +11,13 @@ title: "ホーム"
 [研究について](./research.md)
 
 ### 査読付き論文
-4. **Tsubasa Kotani**, Mieko Toida, Toseo Moritaka, Satoshi Taguchi (2024), Parametric Study of the Harmonic Structure of Lower Hybrid Waves Driven by Energetic Ions, *Journal of Geophysical Research: Space Physics*, 129, e2024JA032824. [https://doi.org/10.1029/2024JA032824](https://doi.org/10.1029/2024JA032824)
+1. **Tsubasa Kotani**, Mieko Toida, Toseo Moritaka, Satoshi Taguchi (2024), Generation of the Harmonic Structure of Upper Hybrid and Electron Cyclotron Waves Driven by Energetic Electrons, *Plasma and Fusion Research*, 19, 1201033. (doi)
 
-3. **Tsubasa Kotani**, Mieko Toida, Toseo Moritaka, Satoshi Taguchi (2023), Simulation study of the harmonic structure of lower hybrid waves driven by energetic ions, *Physical Review E* , 108(3), 035208. [https://doi.org/10.1103/PhysRevE.108.035208](https://doi.org/10.1103/PhysRevE.108.035208)
+1. **Tsubasa Kotani**, Mieko Toida, Toseo Moritaka, Satoshi Taguchi (2024), Parametric Study of the Harmonic Structure of Lower Hybrid Waves Driven by Energetic Ions, *Journal of Geophysical Research: Space Physics*, 129, e2024JA032824. [https://doi.org/10.1029/2024JA032824](https://doi.org/10.1029/2024JA032824)
 
-2. **Tsubasa Kotani**, Mieko Toida, Toseo Moritaka, Satoshi Taguchi (2023), Harmonic structure of lower hybrid waves driven by energetic ions at 4000 km altitude: PIC simulation, *Geophysical Research Letters*, 50(5), e2022GL102356. [https://doi.org/10.1029/2022GL102356](https://doi.org/10.1029/2022GL102356)
+1. **Tsubasa Kotani**, Mieko Toida, Toseo Moritaka, Satoshi Taguchi (2023), Simulation study of the harmonic structure of lower hybrid waves driven by energetic ions, *Physical Review E* , 108(3), 035208. [https://doi.org/10.1103/PhysRevE.108.035208](https://doi.org/10.1103/PhysRevE.108.035208)
+
+1. **Tsubasa Kotani**, Mieko Toida, Toseo Moritaka, Satoshi Taguchi (2023), Harmonic structure of lower hybrid waves driven by energetic ions at 4000 km altitude: PIC simulation, *Geophysical Research Letters*, 50(5), e2022GL102356. [https://doi.org/10.1029/2022GL102356](https://doi.org/10.1029/2022GL102356)
 
 1. **Tsubasa Kotani**, Mieko Toida, Toseo Moritaka, Satoshi Taguchi (2021), PIC simulation of energetic‐ion injection effects on nonlinear development of lower hybrid wave instabilities, *Journal of the Physical Society of Japan*, 90(12), 124501. [https://doi.org/10.7566/JPSJ.90.124501](https://doi.org/10.7566/JPSJ.90.124501)
 

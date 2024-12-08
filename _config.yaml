@@ -1,8 +1,7 @@
 <!-- theme: jekyll-theme-slate -->
-theme: minima
-<!-- 
-title: Tsubasa Kotani's Homepage
--->
+<!-- theme: minima -->
+theme: Cayman
+<!-- title: Tsubasa Kotani's Homepage -->
 header_pages:
   - index.md
   - research.md

@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: "Tsubasa Kotani's Homepage (小谷翼のホームページ)"
+---
 <!--
 <h1> Tsubasa Kotani </h1>
 
